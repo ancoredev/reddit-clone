@@ -12,7 +12,9 @@ const SignIn: FC = () => {
         By continuing, you are setting up a Breadit account and agree to our User Agreement and Privacy Policy.
       </p>
 
-      {/* sign in form */}
+      {/* 
+      sign in form 
+      */}
 
       <UserAuthForm />
 
